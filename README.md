@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sviat <span>(But friends call me Nicho)</span></h1>
+<h1 align="center">Hi 👋, I'm Sviat <span>(aka Nicho)</span></h1>
 <h3 align="center">I'm a passionate, self-taught full-stack developer and problem-solver</h3>
 
 ---
@@ -15,11 +15,10 @@
 
 <table align="left" width="100%" style="table-layout: fixed;">
   <tr>
-    <td width="20%" align="center"><strong>Languages</strong></td>
-    <td width="20%" align="center"><strong>Frontend</strong></td>
-    <td width="20%" align="center"><strong>Backend</strong></td>
-    <td width="20%" align="center"><strong>Databases</strong></td>
-    <td width="20%" align="center"><strong>Tools</strong></td>
+    <td width="25%" align="center"><strong>Languages</strong></td>
+    <td width="25%" align="center"><strong>Frontend</strong></td>
+    <td width="25%" align="center"><strong>Backend</strong></td>
+    <td width="25%" align="center"><strong>Databases</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -41,11 +40,6 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-    </td>
   </tr>
 </table>
 
@@ -57,9 +51,3 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,figma,mongodb,postgres,git,github" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DFirenice&show_icons=true&theme=react&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DFirenice&theme=react&hide_border=true" />
-</p>
