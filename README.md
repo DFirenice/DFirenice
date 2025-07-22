@@ -6,7 +6,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **modern web apps using React and Next.js**
-- 🌱 I’m learning **Node.js, backend design, and security**
+- 🌱 I’m learning **Node.js backend and cybersecurity**
 - 💬 Ask me about **JavaScript, TypeScript, or building UIs**
 
 ---
