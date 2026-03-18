@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sviat <span>(aka Nicho)</span></h1>
-<h3 align="center">I'm a passionate, self-taught full-stack developer and problem-solver</h3>
+<h1 align="center">Hi 👋, I'm Sviat <span>(or Nic)</span></h1>
+<h3 align="center">I'm a self-taught fullstack developer and UI designer. Driven by passion, I recreate better projects with enhancement beyond my capabilities.</h3>
 
 ---
 
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **modern web apps using React and Next.js**
-- 🌱 I’m learning **Node.js backend and cybersecurity**
-- 💬 Ask me about **JavaScript, TypeScript, or building UIs**
+- 🌱 I’m learning **cybersecurity and Unreal Engine**
+- 💬 Ask me about **fullstack dev, or building UIs**
 
 ---
 
