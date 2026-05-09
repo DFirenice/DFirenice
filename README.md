@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sviat <span>(or Nic)</span></h1>
+<h1 align="center">Hi 👋, I'm Nick</span></h1>
 <h3 align="center">I'm a self-taught fullstack developer and UI designer. Driven by passion, I recreate better projects with enhancement beyond my capabilities.</h3>
 
 ---
