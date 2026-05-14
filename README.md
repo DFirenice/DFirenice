@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nick</span></h1>
+<h1 align="center">Hi 👋, I'm Sviat</span></h1>
 <h3 align="center">I'm a self-taught fullstack developer and UI designer. Driven by passion, I recreate better projects with enhancement beyond my capabilities.</h3>
 
 ---
@@ -6,7 +6,6 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **modern web apps using React and Next.js**
-- 🌱 I’m learning **cybersecurity and Unreal Engine**
 - 💬 Ask me about **fullstack dev, or building UIs**
 
 ---
@@ -43,10 +42,6 @@
     </td>
   </tr>
 </table>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFirenice&show_icons=true&theme=react&hide_border=true&layout=compact" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,figma,mongodb,postgres,git,github" />
